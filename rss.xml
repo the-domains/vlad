@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vlad]]></title>
+        <description><![CDATA[vlad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 17:45:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Missed tax-filing deadline? Don't wait much longer or you'll pay]]></title>
+            <description><![CDATA[<article><h1>Missed tax-filing deadline? Don't wait much longer or you'll pay</h1><p>If you didn't file, and you owe the federal government money, penalties and interest are already accruing. So it's best to take steps to head things off as quickly as possible. Share story People who missed the April 18 income-tax filing deadline might not be contacted by the IRS immediately.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0c1def966a2b246024736febe2328a18ab67a2.png"></article>]]></description>
+            <link>http://www.seattletimes.com/business/missed-tax-filing-deadline-dont-wait-much-longer-or-youll-pay/</link>
+            <guid isPermaLink="false">76c91ef9-4d91-4714-bb7f-f0dcc6570ff5</guid>
+            <pubDate>Sun, 01 May 2016 17:45:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
